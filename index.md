@@ -34,7 +34,7 @@ Talks are 25 minutes by default. We like them short and sharp. But if you really
 
 ## How to Submit
 
-We’re using [pretalx](https://pretalx.fosdem.org/) this year—no more Pentabarf nightmares.
+We’re using [pretalx](https://pretalx.fosdem.org/fosdem-2026/cfp) this year—no more Pentabarf nightmares.
 
 Your submission should include:
 - Your name  
