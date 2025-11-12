@@ -1,4 +1,4 @@
-# FOSDEM 2026 - Open Source Digital Forensics Devroom CFP
+# [FOSDEM 2026 - Open Source Digital Forensics Devroom CFP](https://fosdem.org/2026/schedule/track/open-source-digital-forensics/)
 
 The Call for Papers for the Open Source Digital Forensics devroom is now open!
 
