@@ -1,6 +1,6 @@
-# [FOSDEM 2026 - Open Source Digital Forensics Devroom CFP](https://fosdem.org/2026/schedule/track/open-source-digital-forensics/)
+# [FOSDEM 2026 - Open Source (Digital) Forensics Devroom CFP](https://fosdem.org/2026/schedule/track/open-source-digital-forensics/)
 
-The Call for Papers for the Open Source Digital Forensics devroom is now open!
+The Call for Papers for the Open Source (Digital) Forensics devroom is now open!
 
 FOSDEM 2026 will take place at the Université libre de Bruxelles, Belgium, on **Saturday, January 31st and Sunday, February 1st, 2026**. If you're building, breaking, or bending open source forensic tools—or just doing weird and wonderful things in the world of digital forensics—we want to hear from you.
 
